@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # quizzler_flutter_courses
 # quzzler_flutter_courses
 # quzzler_flutter_courses
+# quizzler_flutter_courses
